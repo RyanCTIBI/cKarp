@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="dentrix6prebeta:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/dentrix6prebeta_jar</output-path>
+    <root id="root">
+      <element id="archive" name="dentrix6prebeta.jar">
+        <element id="module-output" name="dentrix6prebeta" />
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/../../Dentrix/DentrixResourceMaterials/JDBC Driver 02.11.15/Dentrix G6 (Faircom 10 both 32 and 64-bit versions)/64-bit/ctreeJDBC.jar" />
+    </root>
+  </artifact>
+</component>
