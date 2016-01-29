@@ -1,10 +1,5 @@
-[![Mesasix](./mesasix/mesasix_logo_150px_transp.png)](https://www.mesasix.com/)
-
 Written by [Cyrus Gabilla](https://ph.linkedin.com/in/cgabilla) | Last Updated on October 29, 2015
 
-## Dentrix6PreBeta
-
-The name of the repository itself is self-explanatory.  It will serve only as a *private* repository within only [**Mesasix**](https://www.mesasix.com/) (the **Leading Performance Marketing Agency**) community.
 
 ### General Objective
 * This will serve as a general-purpose documentation on the exploration of the **[Dentrix API](http://ddp.dentrix.com/FAQ.aspx)** specifically for G6
@@ -68,7 +63,6 @@ This is an initial script for the **Dentrix** data crawler written in **C#**.  T
 
 This is a **Java** project written using an **IntelliJ IDE** from **JetBrains**. This code was originally from the **Dentrix API** tutorial but it has some errors.
 
-* [![Mesasix](./mesasix/mesasix_logo_150px_transp.png)](https://www.mesasix.com/) Directory
 
 Dedicated for the __Mesasix__ common resources. It has a beautiful, minimal, and meaningful company logo.
 
@@ -77,17 +71,3 @@ Dedicated for the __Mesasix__ common resources. It has a beautiful, minimal, and
 All about images documentation related to this project.
 
 *Note: Directory names do not have spaces to avoid path location error. This project are written in __Windows 10 Pro__ operation system.*
-
-### Authors
-
-* __Mesasix Founder + CEO of [**Mesasix**](https://www.mesasix.com/)__
-
-[![Steven](./mesasix/STEVEN.jpg)](mailto:steven@mesasix.com)
-
-* __Mesasix Lead Developer__
-
-[![Matthew](./mesasix/MATTHEW.jpg)](mailto:matthew@mesasix.com)
-
-* __Mesasix General Developer__
-
-[![Cyrus](./mesasix/CYRUS.jpg)](mailto:cyrus@mesasix.com)
